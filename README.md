@@ -17,7 +17,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Project Description
-* Name: Avel Eli Evnagelista
+* Name: Avel Eli Evangelista
 * Block: 3.4BSIT
 * Scenario: Student  Grade Computation
 * Compiler: VSCode
