@@ -1,0 +1,13 @@
+--- Student Grade Calculator ---
+Enter student name: Avel Evangelista
+Enter attendance score (0-100): 90
+Enter final exam score (0-100): 80
+
+=== Final Grade Summary ===
+Student Name: Avel Evangelista
+Attendance: 90/100 (30% Weight)
+Exam Score: 80.0/100 (70% Weight)
+Calculated Final Grade: 83.00
+Rounded Whole Grade: 83
+Passed the Course: true
+Pasado ka boi
